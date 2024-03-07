@@ -60,9 +60,9 @@ font-style: normal;
 
 .page-title{
 font-size: 56px;
-line-height: 1.07143;
+line-height: 1.07;
 letter-spacing: 0.02em;
-/* text-align: center; */
+text-align: center;
 color: #fff;
 }
 
@@ -78,13 +78,16 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 color: #fff;
-/* box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15); */
 background: #4d5ae5;
 }
 
 .button:focus,
 .button:hover{
     background:#404bbf;
+}
+
+.second-section{
+    color: #2e2f42;
 }
 
 .benefits-title{
@@ -108,8 +111,9 @@ color: #434455;
 font-size: 36px;
  line-height: 1.11;
 letter-spacing: 0.02em;
-/* text-align: center; */
+text-align: center;
 text-transform: capitalize;
+color: #2e2f42;
 }
 
 .third-section{
@@ -125,14 +129,14 @@ font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
-/* text-align: center; */
+text-align: center;
 }
 
 .member-position{
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-/* text-align: center; */
+text-align: center;
 color: #434455;
 }
 
