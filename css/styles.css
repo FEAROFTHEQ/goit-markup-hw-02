@@ -87,6 +87,10 @@ background: #4d5ae5;
 }
 
 .second-section{
+color: #2e2f42;
+}
+
+.second-section-title{
 color:  #2e2f42 ;
 }
 
@@ -118,6 +122,7 @@ color: #2e2f42;
 
 .third-section{
     background: #f4f4fd;
+    color: #2e2f42;
 }
 
 .member{
@@ -138,6 +143,10 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 text-align: center;
 color: #434455;
+}
+
+.section-four{
+    color: #2e2f42;
 }
 
 .portfolio-title{
